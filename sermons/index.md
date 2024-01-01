@@ -14,24 +14,24 @@ layout: default
 
 [2022/03/13 火炼的试验](https://drive.google.com/file/d/19uRuCsGbW8Y5F5MHPpzCT44XXAH5VLey/view?usp=sharing)
 
-[出埃及记](https://fukuoka-cmujp-church.github.io/sermons/sermon_egypt)
+[出埃及记](https://fukuokachinesechurch.github.io/fukuoka-cmujp-church/sermons/sermon_egypt)
 
-[撒母耳记 下](https://fukuoka-cmujp-church.github.io/sermons/sermon_samuel)  
+[撒母耳记 下](https://fukuokachinesechurch.github.io/fukuoka-cmujp-church/sermons/sermon_samuel)  
 
-[马太福音](https://fukuoka-cmujp-church.github.io/sermons/sermon_matthew)  
+[马太福音](https://fukuokachinesechurch.github.io/fukuoka-cmujp-church/sermons/sermon_matthew)  
 
-[雅各书](https://fukuoka-cmujp-church.github.io/sermons/sermon-james)  
+[雅各书](https://fukuokachinesechurch.github.io/fukuoka-cmujp-church/sermons/sermon-james)  
 
-[彼得前书](https://fukuoka-cmujp-church.github.io/sermons/sermon-peter)
+[彼得前书](https://fukuokachinesechurch.github.io/fukuoka-cmujp-church/sermons/sermon-peter)
 
-[启示录](https://fukuoka-cmujp-church.github.io/sermons/sermon-revelation) 
+[启示录](https://fukuokachinesechurch.github.io/fukuoka-cmujp-church/sermons/sermon-revelation) 
 
-[圣诞布道会](https://fukuoka-cmujp-church.github.io/sermons/sermon-blessing) 
+[圣诞布道会](https://fukuokachinesechurch.github.io/fukuoka-cmujp-church/sermons/sermon-blessing) 
 
-[陈牧师讲道](https://fukuoka-cmujp-church.github.io/sermons/sermon_chen)
+[陈牧师讲道](https://fukuokachinesechurch.github.io/fukuoka-cmujp-church/sermons/sermon_chen)
 
-[颜牧师讲道](https://fukuoka-cmujp-church.github.io/sermons/sermon_yan)    
+[颜牧师讲道](https://fukuokachinesechurch.github.io/fukuoka-cmujp-church/sermons/sermon_yan)    
 
-[路得记](https://fukuoka-cmujp-church.github.io/sermons/sermon_ruth)
+[路得记](https://fukuokachinesechurch.github.io/fukuoka-cmujp-church/sermons/sermon_ruth)
 
-[戴继宗牧师讲道](https://fukuoka-cmujp-church.github.io/sermons/sermon_dai)
+[戴继宗牧师讲道](https://fukuokachinesechurch.github.io/fukuoka-cmujp-church/sermons/sermon_dai)
