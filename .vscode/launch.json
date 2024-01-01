@@ -9,7 +9,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
-            "url": "https://fukuokachinesechurch.github.io/",
+            "url": "https://fukuoka-cmujp-church.github.io/",
             "webRoot": "${workspaceFolder}"
         }
     ]
