@@ -27,4 +27,4 @@ layout: default
 电话号码：090-9657-9984   
 邮箱：sxjgwh2005@gmail.com  
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d53193.720796405774!2d130.30895838480328!3d33.56357152600485!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1s!5e0!3m2!1sja!2sjp!4v1704094535087!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6649.801086924693!2d130.3162719935791!3d33.555960299999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x354194be9df8f275%3A0x5a40f8f1bb4c3d4f!2z44K344OG44Kj44Op44Kk44OV44OR44OG44Kj44Kq5a6k6KaL5rKz55WU!5e0!3m2!1sja!2sjp!4v1704094929752!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
