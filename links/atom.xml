@@ -18,8 +18,12 @@ layout: feed
  {% for post in site.posts %}
  <entry>
    <title>福岡華人教会</title>
-   <link href="https://www.youtube.com/channel/UCGDP2iDdpRma1d3beQ6gwLg"/>
+   <link href="https://www.youtube.com/channel/UCspBMu8-phxUqdL-9Qiq8NA"/>
    <updated>锡安宣道所</updated>
+   <id>https://fukuokachinesechurch.github.io/fukuoka-cmujp-church/links/</id>
+   <content type="html"><index class="html"></index>/content>
+   <link href="https://www.youtube.com/channel/UCGDP2iDdpRma1d3beQ6gwLg"/>
+   <updated>东区教会</updated>
    <id>https://fukuokachinesechurch.github.io/fukuoka-cmujp-church/links/</id>
    <content type="html"><index class="html"></index>/content>
  </entry>
