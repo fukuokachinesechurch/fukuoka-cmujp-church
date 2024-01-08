@@ -7,4 +7,4 @@ layout: default
 
 [证道 赞美(youtube)](https://www.youtube.com/channel/UCspBMu8-phxUqdL-9Qiq8NA)
 
-[东区教会(youtube)](https://www.youtube.com/channel/UCGDP2iDdpRma1d3beQ6gwLg)
+[东区堂(youtube)](https://www.youtube.com/channel/UCGDP2iDdpRma1d3beQ6gwLg)
