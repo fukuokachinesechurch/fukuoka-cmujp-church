@@ -2,6 +2,18 @@
 title: 福音信息
 layout: default
 ---
+[2024/07/07 赞美主权的神](https://www.youtube.com/watch?v=HDqnwLILgNc)
+
+[2024/06/30 王对子民的召命](https://www.youtube.com/watch?v=LoWwsW5ulrk)
+
+[2024/06/23 王赐待人的金律](https://www.youtube.com/watch?v=qrspwUxy_DQ)
+
+[2024/06/16 从愁苦中重生](https://www.youtube.com/watch?v=8gwzN9R71uc)
+
+[2024/06/02 看见幸福](https://www.youtube.com/watch?v=Or3PBdfnQHs)
+
+[2024/05/26 不要忧虑](https://www.youtube.com/watch?v=637ae6Fvl7Y)
+
 [2022/04/17 主耶稣复活](https://drive.google.com/file/d/13tc-dp6UC7hMYpocG8Uiuaj-zQCtqGhx/view?usp=sharing)
 
 [2022/04/10 生命的牧养](https://drive.google.com/file/d/1jfCATZD78R7XM2JzePU-9N43mFvPHDvC/view?usp=sharing)
