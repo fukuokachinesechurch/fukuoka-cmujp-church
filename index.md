@@ -14,7 +14,7 @@ layout: default
 <h3>聚会时间</h3>
 
 主日敬拜：周日&nbsp;成人 10:30am   
-&nbsp;&nbsp;&nbsp;儿主  10:30am   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;儿主  10:30am   
 查经祷告：  周五8:00pm-9:00pm 
 中文学习班：周日下午2:00pm-4:00pm(费用:500日元)
 
