@@ -53,7 +53,7 @@ layout: default
 
 [22启示录十二-天上现出大异象](https://drive.google.com/file/d/1kxJYM2xWDt4iulx6UfkQDml8TiOYG58F/view?usp=drive_link)
 
-[23邪恶的敌基督启1320220205](https://drive.google.com/file/d/1o1ulFQdmHTxfp24JOMCiEni7SlGCKeKc/view?usp=drive_link)
+[23邪恶的敌基督启](https://drive.google.com/file/d/1o1ulFQdmHTxfp24JOMCiEni7SlGCKeKc/view?usp=drive_link)
 
 [24启示录14羔羊&十四万四千人](https://drive.google.com/file/d/1tXRUihNXb0jj6sIfqpcBgX4vj35X_ToD/view?usp=drive_link)
 
