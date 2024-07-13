@@ -43,3 +43,44 @@ layout: default
 
 [17第六号战争的警告(启九13-21)](https://drive.google.com/file/d/1KsBhKqdkKS2J9jXweZ7H4uHrQ_KNWtx1/view?usp=sharing)
 
+[18大力天使&小书卷(十)](https://drive.google.com/file/d/1WIN55fmCa456ZgiG4EpGx46xM2WWJTUQ/view?usp=drive_link)
+
+[19赐一根苇子量圣殿(十一1-2)](https://drive.google.com/file/d/1hNaCvvo21Jx8JssuinSc4SXVAtegL2a-/view?usp=drive_link)
+
+[20福音的见证人(十一13-14)](https://drive.google.com/file/d/19SrlyS4z_-MU1EyNGsWGiMKDxcvmcNJm/view?usp=drive_link)
+
+[21至高的宣告(十一15-19) ](https://drive.google.com/file/d/1vnSC0nghtMSBLdD5TNm_k_iNwjrqXPm1/view?usp=drive_link)
+
+[22启示录十二-天上现出大异象](https://drive.google.com/file/d/1kxJYM2xWDt4iulx6UfkQDml8TiOYG58F/view?usp=drive_link)
+
+[23邪恶的敌基督启1320220205](https://drive.google.com/file/d/1o1ulFQdmHTxfp24JOMCiEni7SlGCKeKc/view?usp=drive_link)
+
+[24启示录14羔羊&十四万四千人](https://drive.google.com/file/d/1tXRUihNXb0jj6sIfqpcBgX4vj35X_ToD/view?usp=drive_link)
+
+[25有永远的福音要传(启十四6-7)](https://drive.google.com/file/d/1L_-5foUsOygb4X_7eblh6YXv2uiZTN7F/view?usp=drive_link)
+
+[26神的忿怒&安慰(启十四8-20)](https://drive.google.com/file/d/1p06vNzAOpbQSnxMYD_0Q5xGC5UR1oBwq/view?usp=drive_link)
+
+[27玻璃海上的敬拜(启十五)](https://drive.google.com/file/d/1ZI92VKB56GZLgvdli8bO-JkpK1lAw5uO/view?usp=drive_link)
+
+[28神大怒的七碗(1-21)](https://drive.google.com/file/d/1ZgEDsUXOpJH-XaMbGwoi31xBDaOc-fNc/view?usp=drive_link)
+
+[29灵里的决战(启十六12-21)](https://drive.google.com/file/d/1qrOEzMDZyRxfoTh-p0aD35sGUIWMuYkm/view?usp=drive_link)
+
+[30大淫妇的奥秘(启十七)](https://drive.google.com/file/d/1o6rKfHrDN4BsNEV18sdBHu59eQnQwvSC/view?usp=drive_link)
+
+[31巴比伦大城倾倒了(启十八1-24)](https://drive.google.com/file/d/1_gUtVeIfJ30IWsiZaHSJPTymPE9TTj3F/view?usp=drive_link)
+
+[32赞美神(启十九5)](https://drive.google.com/file/d/1KyKQrNW8qAd8GPhiHz1lkvzUOFd32ujq/view?usp=drive_link)
+
+[32赞美神欢聚羔羊婚宴(启十九1-10)](https://drive.google.com/file/d/1ZWHWTpItfMXB9nTurB5_tDJOt6sIG3Pb/view?usp=drive_link)
+
+[33主擒拿战犯候审(启十九11-21)](https://drive.google.com/file/d/11PiDSAXxHOmgOz-4ukPb3Rg8xCtzkGqp/view?usp=drive_link)
+
+[34千年国度&宝座审判(启二十)](https://drive.google.com/file/d/1ufk-l8zTytbzwzXFyidOJBw1J04Ynge6/view?usp=drive_link)
+
+[35新天新地&新圣城(启二一1-27)](https://drive.google.com/file/d/1QxIgLiAsqLjsqqFPxjKqOc-xPsse0wh8/view?usp=drive_link)
+
+[36神赐神国子民的福(启二二1-5)](https://drive.google.com/file/d/1YXXIPvCMuew-A1ku8ibmvSGKbzVvW_J7/view?usp=drive_link)
+
+[37我必快来(启二二6-21)](https://drive.google.com/file/d/1a9srX323sZq8CcuG1NXtiNxzkuaBg-vi/view?usp=drive_link)
