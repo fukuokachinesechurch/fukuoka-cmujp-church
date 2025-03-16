@@ -1,8 +1,8 @@
 ---
-title: 日本福岡錫安華人宣道会早良堂
+title: 日本福岡錫安華人宣道会
 layout: default
 ---
-<center><h1>日本福岡錫安華人宣道会早良堂</h1></center>
+<center><h1>日本福岡錫安華人宣道会</h1></center>
 
 
 
