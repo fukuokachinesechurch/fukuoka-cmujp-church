@@ -14,8 +14,6 @@ layout: default
 <br>
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;儿主&nbsp;10:30am
 <br>
-中文学习班：周日2:00pm-4:00pm(费用:500日元)
-<br>
 查经祷告：  周五8:00pm-9:00pm
 
 *目前聚会以实体为主，网络通过zoom进行，请联系牧师获取参加方法*
