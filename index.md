@@ -26,7 +26,22 @@ layout: default
 邮箱：sxjgwh2005@gmail.com  
 
 ------------------------------------------------------------------------------------
-早良堂教会地址：福岡県福岡市早良区次郎丸2丁目25-35-113
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6649.801086924693!2d130.3162719935791!3d33.555960299999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x354194be9df8f275%3A0x5a40f8f1bb4c3d4f!2z44K344OG44Kj44Op44Kk44OV44OR44OG44Kj44Kq5a6k6KaL5rKz55WU!5e0!3m2!1sja!2sjp!4v1704094929752!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+教会地址:福岡県福岡市東区和白東五丁目13-19
 
-[教会楼照片 点击可看](https://www.stepon.co.jp/mansion/library-detail/11850015/) 
+<iframe 
+  width="600" 
+  height="450" 
+  style="border:0" 
+  loading="lazy" 
+  allowfullscreen 
+  referrerpolicy="no-referrer-when-downgrade" 
+  src="https://www.google.com/maps?q=%E7%A6%8F%E5%B2%A1%E7%9C%8C%E7%A6%8F%E5%B2%A1%E5%B8%82%E6%9D%B1%E5%8C%BA%E5%92%8C%E7%99%BD%E6%9D%B1%E4%BA%94%E4%B8%81%E7%9B%AE13-1&hl=ja&output=embed">
+</iframe>
+
+[教会楼照片 点击可看](https://www.google.com/maps/search/?api=1&query=%E7%A6%8F%E5%B2%A1%E7%9C%8C%E7%A6%8F%E5%B2%A1%E5%B8%82%E6%9D%B1%E5%8C%BA%E5%92%8C%E7%99%BD%E6%9D%B1%E4%BA%94%E4%B8%81%E7%9B%AE13-1) 
+
+[和白駅 电车](https://www.google.com/maps/search/?api=1&query=%E5%92%8C%E7%99%BD%E9%A7%85) 
+
+[和白駅 西鉄バス](https://www.google.com/maps/search/?api=1&query=%E5%92%8C%E7%99%BD%E9%A7%85%E5%89%8D%E3%83%90%E3%82%B9%E5%81%9C) 
+
+最近车站　　和白駅
